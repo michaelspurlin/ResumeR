@@ -1,0 +1,290 @@
+---
+title: "Michael Spurlin's Resume"
+author: Michael Spurlin
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> michael@michaelspurlin.com
+- <i class="fa fa-github"></i> [GitHub](https://github.com/michaelspurlin/ResumeR)
+- <i class="fa fa-phone"></i> 937-232-9874
+
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Helping organizations grow and retain revenue.
+
+- Enhancing CRM and Sales applicataion.
+
+- Building applications in R and Power BI to help teams save time
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Michael Spurlin {#title}
+--------------------------------------------------------------------------------
+
+### Objective:
+
+Using my love for data, relentless curiosity, and my desire to help people solve problems, I want to help an organization retain recurring revenue, increase sales, and maximize its footprint.
+
+
+
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Graduate Research Assistant
+
+Beijing Institute of Genomics, Chinese Academy of Sciences
+
+Beijing, China
+
+2011 - 2014
+
+- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
+- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
+
+### Bioinformatican
+
+My Health Gene Technology Co., Ltd.
+
+Beijing, China
+
+2015 - 2016
+
+- Investigated how cancer cells spread to other parts of the body at the single cell level.
+
+### Visiting Scientist
+
+University of Alabama at Birmingham
+
+AL, USA
+
+2016 - 2018
+
+- Investigated the role of mitochondria in development of cancer.
+- Investigated the evolution of genome architecture and its role in important evolutionary events.
+- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
+  
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Certa,  Director 
+Responsible for improving sales operations and building prototypes of solutions. 
+
+Text 45
+
+
+December 2021 - Present
+
+
+**Sales operations** 
+
+::: concise 
+- Cleaning Salesforce data. 
+- Standardizing Salesforce (SFDC) process with Sales and Marketing teams. 
+- Improving the use and adoption  of Salesloft. 
+- Integrating Salesloft with Salesforce. 
+- Led the project and was the SME to build a Configure,Price, Quote, Proposal tool. 
+- Supporting new AEs to reduce time to value. 
+- Responding to RFPs. 
+- Converted statistical tutorials from SPSS to R language. 
+:::
+
+
+**Product** 
+
+::: concise 
+- SME to develop a product that incorporates process mining to surface intelligence to make better decisions. 
+- Build dashboards to allow a company to analyze their vendor spend and the diversity of their suppliers. 
+:::
+
+
+###	F.H. Black & Company, Solutions Advisor
+Responsible for improving sales operations and building prototypes of solutions. 
+
+Text 45
+
+
+September 2020 - November 2021
+
+Responsible for formalizing the sales role in the United States and driving growth in the Eastern half of the United States.  Working with states, counties, cities and school districts to automate their financial reporting process.
+
+
+::: concise 
+- In 2021, led the team in the amount of deals closed.  
+- Worked with my Sales colleagues as well as the Consultant team to improve the internal process and the client experience.  
+- Standardized the use of SFDC, reports, and dashboards to add more rigor to the Sales process.  
+- Built a quote, pricing, and proposal tool to support sales with a new partner.  
+- Built a tool in R to better understand a cClient's potential pain.  
+- Used Power BI to better understand the Sales activity and opportunity for growth.  
+:::
+
+###	Dun & Bradstreet, Account Executive
+Responsible for improving sales operations and building prototypes of solutions. 
+
+Text 45 
+
+
+August 2018  - September 2020  
+
+Grew and retained my territory by helping Procurement, Compliance, and Data teams simplify and streamline the process of identifying and mitigating third-party risk as well as manage solutions driven by data (data lakes and master data).
+
+::: concise 
+- Facilitated the conversations and coordinating the internal resources to support a $12B company standing up its data lake.  
+- Helped companies better understand their supplier diversity spend so that they can meet internal and external compliance requirements.  
+- Helped companies clean up their supplier data so that they can make better decisions and be more efficient about their supply chain.  
+- In my spare time, created a Power BI tool to put customer information at the fingertips of the sales team, saving time and improving customer conversations. 
+- Built a model for Sellers to be able to identify high propensity sales targets, allowing them to focus their efforts.  
+
+:::
+
+
+###	Workiva, Regional Sales Director  
+ 
+Helped CFOs, Controllers and VP’s of Finance at Higher Ed institutions, States, and Municipalities leverage a SaaS solution to shorten, simplify and streamline their financial reporting process, allowing their teams more time for analytics work and additional projects.  
+
+Text 45  
+
+
+November 2015  - August 2018  
+
+
+
+
+-  Acquired the first customers for this market in Illinois, Indiana, Kentucky, Ohio, and Virginia.  
+
+
+###	Gartner, Account Executive  
+
+Worked with CIOs and their directs to help IT transform the business by providing analysts and resources to support their security, supply chain, BI, and other strategic IT initiatives.   
+
+Text 45  
+
+
+January 2014  - November 2015 
+
+
+
+::: concise  
+- Added $440K to $855K territory.  
+- Closed the largest growth deal in the Area. Second largest in the region.  
+- Closed the largest, longest renewal in the Area.  
+
+:::
+
+###	LexisNexis, Client Manager 
+
+Helped General Counsel and their IP, L&E, & Tax staff to protect the organization and deliver better business outcomes.
+
+Text 45  
+
+
+January June 2009  - January 2014
+
+
+
+::: concise  
+- Led the account team that works with customers to retain and grow a $3.2M territory In Michigan, Indiana, and Ohio.  
+- Played critical role in saving and increasing revenue with automotive manufacturing customers during and post bankruptcies.
+-  Beat revenue growth and retention targets for all four years.  
+-  Leveraged traditional and non-traditional (social media and data analytics) tools  and processes to increase revenue growth and  revenue retention in my territory.  
+
+:::
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Introduction to R Language for Beginners.
+
+Instructor of R and Data Mining Training Courses at SupStat Inc.
+
+Beijing, China
+
+2014
+
+### Computational Biology and Bioinformatics.
+
+Teaching assistant of GBS CB2-201 courses at UAB
+
+AL, USA
+
+2016 - 2017
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Beijing University of Chemical Technology
+
+B.S. in Information and Computing Sciences
+
+Beijing, China
+
+2010
+
+Thesis: Dyadic wavelet and its application in edge detection
+
+### University of Chinese Academy of Sciences
+
+M.S. in Bioinformatics
+
+Beijing, China
+
+2014
+
+Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+
+
+
+Selected Publications and Posters {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+
+Poster for 2013 International Conference of Genomics
+
+Qingdao, China
+
+2014
+
+**Yu L**, Chen B, Zhang Z.
+
+### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
+
+J Cell Sci. 2016 May 15;129(10):2075-84.
+
+N/A
+
+2016 
+
+Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
