@@ -58,53 +58,19 @@ Using my love for data, relentless curiosity, and my desire to help people solve
 
 
 
-Research Experience {data-icon=laptop}
---------------------------------------------------------------------------------
 
-### Graduate Research Assistant
 
-Beijing Institute of Genomics, Chinese Academy of Sciences
-
-Beijing, China
-
-2011 - 2014
-
-- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
-- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
-
-### Bioinformatican
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
-
-- Investigated how cancer cells spread to other parts of the body at the single cell level.
-
-### Visiting Scientist
-
-University of Alabama at Birmingham
-
-AL, USA
-
-2016 - 2018
-
-- Investigated the role of mitochondria in development of cancer.
-- Investigated the evolution of genome architecture and its role in important evolutionary events.
-- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
-  
-
-Professional Experience {data-icon=suitcase}
+Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ### Certa,  Director 
 Responsible for improving sales operations and building prototypes of solutions. 
 
-Text 45
+<!-- N/A for not using location -->
+N/A  
 
 
-December 2021 - Present
+Present - December 2021
 
 
 **Sales operations** 
@@ -130,14 +96,16 @@ December 2021 - Present
 
 
 ###	F.H. Black & Company, Solutions Advisor
-Responsible for improving sales operations and building prototypes of solutions. 
 
-Text 45
+Responsible for formalizing the sales role in the United States and driving growth in the Eastern half of the United States.  Working with states, counties, cities and school districts to automate their financial reporting process.  
+<br> 
+
+<!-- N/A for not using location --> 
+N/A  
+
+November 2021 - September 2020
 
 
-September 2020 - November 2021
-
-Responsible for formalizing the sales role in the United States and driving growth in the Eastern half of the United States.  Working with states, counties, cities and school districts to automate their financial reporting process.
 
 
 ::: concise 
@@ -152,12 +120,13 @@ Responsible for formalizing the sales role in the United States and driving grow
 ###	Dun & Bradstreet, Account Executive
 Responsible for improving sales operations and building prototypes of solutions. 
 
-Text 45 
+<!-- N/A for not using location --> 
+N/A   
 
 
-August 2018  - September 2020  
+September 2020 - August 2018
 
-Grew and retained my territory by helping Procurement, Compliance, and Data teams simplify and streamline the process of identifying and mitigating third-party risk as well as manage solutions driven by data (data lakes and master data).
+Grew and retained my territory by helping Procurement, Compliance, and Data teams simplify and streamline the process of identifying and mitigating third-party risk as well as manage solutions driven by data (data lakes and master data).  
 
 ::: concise 
 - Facilitated the conversations and coordinating the internal resources to support a $12B company standing up its data lake.  
@@ -172,11 +141,13 @@ Grew and retained my territory by helping Procurement, Compliance, and Data team
 ###	Workiva, Regional Sales Director  
  
 Helped CFOs, Controllers and VP’s of Finance at Higher Ed institutions, States, and Municipalities leverage a SaaS solution to shorten, simplify and streamline their financial reporting process, allowing their teams more time for analytics work and additional projects.  
+<br> 
 
-Text 45  
+<!-- N/A for not using location --> 
+N/A    
 
 
-November 2015  - August 2018  
+August 2018 - November 2015
 
 
 
@@ -187,11 +158,13 @@ November 2015  - August 2018
 ###	Gartner, Account Executive  
 
 Worked with CIOs and their directs to help IT transform the business by providing analysts and resources to support their security, supply chain, BI, and other strategic IT initiatives.   
+<br> 
 
-Text 45  
+<!-- N/A for not using location --> 
+N/A    
 
 
-January 2014  - November 2015 
+November 2015 - January 2014
 
 
 
@@ -204,12 +177,14 @@ January 2014  - November 2015
 
 ###	LexisNexis, Client Manager 
 
-Helped General Counsel and their IP, L&E, & Tax staff to protect the organization and deliver better business outcomes.
+Helped General Counsel and their IP, L&E, & Tax staff to protect the organization and deliver better business outcomes.  
+<br>  
 
-Text 45  
+<!-- N/A for not using location --> 
+N/A    
 
 
-June 2009  - January 2014 
+January 2014 - June 2009  
 
 
 
@@ -224,41 +199,47 @@ June 2009  - January 2014
 
 ###	LexisNexis, Manager, Consulting 
 
-Led a team of 12 consultants to provide education and consulting across the United States.  Responsible for hiring, coaching development, and budget. 
+Led a team of 12 consultants to provide education and consulting across the United States.  Responsible for hiring, coaching development, and budget.  
+<br>  
 
-Text 45  
 
-November 2005 - June 2009 
+<!-- N/A for not using location --> 
+N/A    
+
+June 2009 - November 2005 
 
 
 
 ::: concise  
 - Led team to increase activity by 32%  year one.  Doubled productivity by year three.  
-- Redesigned the team to support $1.3M in custom consulting projects from non-traditional revenue streams.  
+- Redesigned the team to support $1.3M in custom consulting projects from non-traditional revenue streams.   
 
 :::
 
-###	LexisNexis, Applications Consultant
+###	LexisNexis, Applications Consultant  
+<!-- N/A for not having a Description --> 
+N/A  
 
-Text 45  
+<!-- N/A for not using location --> 
+N/A    
 
-February 2002 - November 2005 
-
+November 2005 - February 2002  
 
 ::: concise  
 - Retained and grew revenue for a $3M territory through implementation and ongoing support of LexisNexis solutions. 
 - Helped F500 customers increase business efficiencies and improve processes. 
 - Negotiated contracts, cold called customers, and created service plans. 
   
-
 :::
 
 ###	TManage, Manager, Marketing Strategy
+<!-- N/A for not having a Description --> 
+N/A  
 
+<!-- N/A for not using location --> 
+N/A    
 
-Text 45  
-
-November 2000 - November 2001 
+November 2001 - November 2000  
 
 
 ::: concise  
@@ -271,11 +252,13 @@ November 2000 - November 2001
 
 
 ###	DTI-MCK Communications, Marketing Manager
+<!-- N/A for not having a Description --> 
+N/A  
 
+<!-- N/A for not using location --> 
+N/A    
 
-Text 45  
-
-November 1999 - November 2000 
+November 2000 - November 1999  
 
 
 ::: concise  
@@ -289,15 +272,17 @@ November 1999 - November 2000
 
 ###	Nortel Networks, Various Positions
 
-Various positions with increasing responsibilities.
+Various positions with increasing responsibilities.  
+<br> 
 
-Text 45  
+<!-- N/A for not using location --> 
+N/A    
 
-November June 1989 - November 1999  
+November 1999 -November June 1989  
 
-::: concise  
+:::concise     
 - Created and implemented a knowledge sharing system for use by 400 people in three countries. 
-- Performed competitive intelligence to define corporate IT strategy. 
+- Performed competitive intelligence to define corporate IT strategy. <br>
 - Developed leader-lead, learner-led, and CBT education solutions. 
 
 :::
@@ -324,29 +309,14 @@ AL, USA
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Beijing University of Chemical Technology
+### University of North Texas
 
-B.S. in Information and Computing Sciences
-
-Beijing, China
-
-2010
-
-Thesis: Dyadic wavelet and its application in edge detection
-
-### University of Chinese Academy of Sciences
-
-M.S. in Bioinformatics
-
-Beijing, China
-
-2014
-
-Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+B.A.  English 
+  
 
 
 
-Selected Publications and Posters {data-icon=file}
+Selected Projects {data-icon=file}
 --------------------------------------------------------------------------------
 
 ### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
