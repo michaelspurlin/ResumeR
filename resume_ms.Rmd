@@ -31,7 +31,7 @@ Skills {#skills}
 
 - Helping organizations grow and retain revenue.
 
-- Enhancing CRM and Sales applicataion.
+- Enhancing CRM and Sales applications.
 
 - Building applications in R and Power BI to help teams save time
 
@@ -145,7 +145,7 @@ Responsible for formalizing the sales role in the United States and driving grow
 - Worked with my Sales colleagues as well as the Consultant team to improve the internal process and the client experience.  
 - Standardized the use of SFDC, reports, and dashboards to add more rigor to the Sales process.  
 - Built a quote, pricing, and proposal tool to support sales with a new partner.  
-- Built a tool in R to better understand a cClient's potential pain.  
+- Built a tool in R to better understand a client's potential pain.  
 - Used Power BI to better understand the Sales activity and opportunity for growth.  
 :::
 
@@ -209,7 +209,7 @@ Helped General Counsel and their IP, L&E, & Tax staff to protect the organizatio
 Text 45  
 
 
-January June 2009  - January 2014
+June 2009  - January 2014 
 
 
 
@@ -221,6 +221,86 @@ January June 2009  - January 2014
 
 :::
 
+
+###	LexisNexis, Manager, Consulting 
+
+Led a team of 12 consultants to provide education and consulting across the United States.  Responsible for hiring, coaching development, and budget. 
+
+Text 45  
+
+November 2005 - June 2009 
+
+
+
+::: concise  
+- Led team to increase activity by 32%  year one.  Doubled productivity by year three.  
+- Redesigned the team to support $1.3M in custom consulting projects from non-traditional revenue streams.  
+
+:::
+
+###	LexisNexis, Applications Consultant
+
+Text 45  
+
+February 2002 - November 2005 
+
+
+::: concise  
+- Retained and grew revenue for a $3M territory through implementation and ongoing support of LexisNexis solutions. 
+- Helped F500 customers increase business efficiencies and improve processes. 
+- Negotiated contracts, cold called customers, and created service plans. 
+  
+
+:::
+
+###	TManage, Manager, Marketing Strategy
+
+
+Text 45  
+
+November 2000 - November 2001 
+
+
+::: concise  
+- Brought a product from whiteboard to market in 90 days.  
+- Managed a Competitive Intelligence and Research program to increase Sales effectiveness.  
+- Responded to RFPs.  
+
+:::
+
+
+
+###	DTI-MCK Communications, Marketing Manager
+
+
+Text 45  
+
+November 1999 - November 2000 
+
+
+::: concise  
+- Created Competitive Intelligence program to enable Sales team to be knowledgeable on Sales calls. 
+- Managed Marketing programs and results to increase effectiveness. 
+- Managed the transition of two Marketing departments after a merger. 
+ 
+
+:::
+
+
+###	Nortel Networks, Various Positions
+
+Various positions with increasing responsibilities.
+
+Text 45  
+
+November June 1989 - November 1999  
+
+::: concise  
+- Created and implemented a knowledge sharing system for use by 400 people in three countries. 
+- Performed competitive intelligence to define corporate IT strategy. 
+- Developed leader-lead, learner-led, and CBT education solutions. 
+
+:::
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
