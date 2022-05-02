@@ -4,8 +4,11 @@ author: Michael Spurlin
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
+    css: 
+      - override.css
+      - resume
     # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: false
+    self_contained: true
 # uncomment this line to produce HTML and PDF in RStudio:
 #knit: pagedown::chrome_print
 ---
@@ -14,14 +17,13 @@ Aside
 ================================================================================
 
 
-![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
 
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> michael@michaelspurlin.com
-- <i class="fa fa-github"></i> [GitHub](https://github.com/michaelspurlin/ResumeR)
+- <i class="fa fa-github"></i> [GitHub for this resume](https://github.com/michaelspurlin/ResumeR)
 - <i class="fa fa-phone"></i> 937-232-9874
 
 
@@ -29,11 +31,14 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Helping organizations grow and retain revenue.
+- Helping organizations grow and retain revenue by helping individual and companies solve problems. 
 
-- Enhancing CRM and Sales applications.
+- Building tools/applications in R and Power BI to help teams save time and focus on more important work.  
 
-- Building applications in R and Power BI to help teams save time
+- In person or virtual demos that address issues, not just click a thousand buttons.
+
+- Helping my team members blow away their goals.  
+
 
 
 Disclaimer {#disclaimer}
@@ -51,9 +56,9 @@ Main
 Michael Spurlin {#title}
 --------------------------------------------------------------------------------
 
-### Objective:
+### Objective: 
 
-Using my love for data, relentless curiosity, and my desire to help people solve problems, I want to help an organization retain recurring revenue, increase sales, and maximize its footprint.
+Using my love for data, relentless curiosity, and my desire to help people solve problems, I want to help be RStudio's next Senior Account Executive, Enterprise to help retain recurring revenue, increase sales, and help more people solve more problems using RStudio.
 
 
 
@@ -83,7 +88,6 @@ Present - December 2021
 - Led the project and was the SME to build a Configure,Price, Quote, Proposal tool. 
 - Supporting new AEs to reduce time to value. 
 - Responding to RFPs. 
-- Converted statistical tutorials from SPSS to R language. 
 :::
 
 
@@ -282,29 +286,11 @@ November 1999 -November June 1989
 
 :::concise     
 - Created and implemented a knowledge sharing system for use by 400 people in three countries. 
-- Performed competitive intelligence to define corporate IT strategy. <br>
+- Performed competitive intelligence to define corporate IT strategy.
 - Developed leader-lead, learner-led, and CBT education solutions. 
 
 :::
 
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Introduction to R Language for Beginners.
-
-Instructor of R and Data Mining Training Courses at SupStat Inc.
-
-Beijing, China
-
-2014
-
-### Computational Biology and Bioinformatics.
-
-Teaching assistant of GBS CB2-201 courses at UAB
-
-AL, USA
-
-2016 - 2017
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -314,27 +300,16 @@ Education {data-icon=graduation-cap data-concise=true}
 B.A.  English 
   
 
-
-
-Selected Projects {data-icon=file}
+Selected Projects {data-icon=clipboard-list}
 --------------------------------------------------------------------------------
+ 
+2020
 
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+- Built an application in R to show how complex it would be for State or Local government to update their Annual Comprehensive Financial Report.
 
-Poster for 2013 International Conference of Genomics
+2017
 
-Qingdao, China
+- Used Power BI to bring together 7 different data sources to help the Sales team (selfishly me) and the Customer Success team have one source of truth for customer activity.  This was used to create expansion sales as well as prepare for renewals.
 
-2014
-
-**Yu L**, Chen B, Zhang Z.
-
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
-
-J Cell Sci. 2016 May 15;129(10):2075-84.
-
-N/A
-
-2016 
-
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
+2021
+- Built a tool in Power BI that allowed a Local government to build a dynamic representation of how the tax payers' money is being spent to allow more transparency and interactivity with the constituents.
