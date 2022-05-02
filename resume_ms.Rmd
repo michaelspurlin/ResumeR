@@ -58,7 +58,7 @@ Michael Spurlin {#title}
 
 ### Objective: 
 
-Using my love for data, relentless curiosity, and my desire to help people solve problems, I want to help be RStudio's next Senior Account Executive, Enterprise to help retain recurring revenue, increase sales, and help more people solve more problems using RStudio.
+Using my love for data, relentless curiosity, and my desire to help people solve problems, I want to be RStudio's next Senior Account Executive, Enterprise to help retain recurring revenue, increase sales, and help more people solve more problems using RStudio.
 
 
 
@@ -118,11 +118,10 @@ November 2021 - September 2020
 - Standardized the use of SFDC, reports, and dashboards to add more rigor to the Sales process.  
 - Built a quote, pricing, and proposal tool to support sales with a new partner.  
 - Built a tool in R to better understand a client's potential pain.  
-- Used Power BI to better understand the Sales activity and opportunity for growth.  
+- Built a prototype using Power BI to increase the transparency and visibility on how a local government spends money.  
 :::
 
 ###	Dun & Bradstreet, Account Executive
-Responsible for improving sales operations and building prototypes of solutions. 
 
 <!-- N/A for not using location --> 
 N/A   
@@ -136,8 +135,8 @@ Grew and retained my territory by helping Procurement, Compliance, and Data team
 - Facilitated the conversations and coordinating the internal resources to support a $12B company standing up its data lake.  
 - Helped companies better understand their supplier diversity spend so that they can meet internal and external compliance requirements.  
 - Helped companies clean up their supplier data so that they can make better decisions and be more efficient about their supply chain.  
-- In my spare time, created a Power BI tool to put customer information at the fingertips of the sales team, saving time and improving customer conversations. 
-- Built a model for Sellers to be able to identify high propensity sales targets, allowing them to focus their efforts.  
+- In my spare time, created a Power BI tool to put customer information at the fingertips of the Sales team, saving time and improving customer conversations. 
+- Built a model for Sellers to be able to identify high propensity sales targets, allowing the Sellers to focus their efforts.  
 
 :::
 
@@ -156,7 +155,7 @@ August 2018 - November 2015
 
 
 
--  Acquired the first customers for this market in Illinois, Indiana, Kentucky, Ohio, and Virginia.  
+-  Prospected and opened (knocked down) the doors to acquire the first customers for this market in Illinois, Indiana, Kentucky, Ohio, and Virginia.  
 
 
 ###	Gartner, Account Executive  
@@ -173,7 +172,7 @@ November 2015 - January 2014
 
 
 ::: concise  
-- Added $440K to $855K territory.  
+- Added $440K to a $855K territory.  
 - Closed the largest growth deal in the Area. Second largest in the region.  
 - Closed the largest, longest renewal in the Area.  
 
@@ -196,14 +195,14 @@ January 2014 - June 2009
 - Led the account team that works with customers to retain and grow a $3.2M territory In Michigan, Indiana, and Ohio.  
 - Played critical role in saving and increasing revenue with automotive manufacturing customers during and post bankruptcies.
 -  Beat revenue growth and retention targets for all four years.  
--  Leveraged traditional and non-traditional (social media and data analytics) tools  and processes to increase revenue growth and  revenue retention in my territory.  
+-  Leveraged traditional and non-traditional (social media and data analytics) tools and processes to increase revenue growth and  revenue retention in my territory.  
 
 :::
 
 
 ###	LexisNexis, Manager, Consulting 
 
-Led a team of 12 consultants to provide education and consulting across the United States.  Responsible for hiring, coaching development, and budget.  
+Led a team of 12 consultants to provide education and consulting across the United States.  Responsible for hiring, coaching/development, and budget.  
 <br>  
 
 
@@ -305,11 +304,11 @@ Selected Projects {data-icon=clipboard-list}
  
 2020
 
-- Built an application in R to show how complex it would be for State or Local government to update their Annual Comprehensive Financial Report.
+* Built an application in R to show how complex it would be for State or Local government to update their Annual Comprehensive Financial Report.
 
 2017
 
-- Used Power BI to bring together 7 different data sources to help the Sales team (selfishly me) and the Customer Success team have one source of truth for customer activity.  This was used to create expansion sales as well as prepare for renewals.
+* Used Power BI to bring together 7 different data sources to help the Sales team (selfishly me) and the Customer Success team have one source of truth for customer activity.  This was used to create expansion sales as well as prepare for renewals.
 
 2021
-- Built a tool in Power BI that allowed a Local government to build a dynamic representation of how the tax payers' money is being spent to allow more transparency and interactivity with the constituents.
+* Built a tool in Power BI that allowed a Local government to build a dynamic representation of how the tax payers' money is being spent to allow more transparency and interactivity with the constituents.
