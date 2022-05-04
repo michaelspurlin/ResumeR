@@ -301,10 +301,11 @@ B.A.  English
 
 Selected Projects {data-icon=clipboard-list}
 --------------------------------------------------------------------------------
- N/A
+ N/A  
  N/A
 :::concise
 2020
+
 
 * Built an application in R to show how complex it would be for State or Local government to update their Annual Comprehensive Financial Report.
 
