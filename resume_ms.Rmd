@@ -37,6 +37,8 @@ Skills {#skills}
 
 - In person or virtual demos that address issues, not just click a thousand buttons.
 
+- Data nerd who has taught myself R in my spare time to help solve business problems.
+
 - Helping my team members blow away their goals.  
 
 
@@ -107,7 +109,7 @@ Responsible for formalizing the sales role in the United States and driving grow
 <!-- N/A for not using location --> 
 N/A  
 
-November 2021 - September 2020
+September 2020 - December 2021 
 
 
 
@@ -122,14 +124,19 @@ November 2021 - September 2020
 :::
 
 ###	Dun & Bradstreet, Account Executive
+Grew and retained my territory by helping Procurement, Compliance, and Data teams simplify and streamline the process of identifying and mitigating third-party risk as well as manage solutions driven by data (data lakes and master data).  
+<br> 
 
 <!-- N/A for not using location --> 
-N/A   
+N/A    
 
 
-September 2020 - August 2018
+August 2018 - November 2015
 
-Grew and retained my territory by helping Procurement, Compliance, and Data teams simplify and streamline the process of identifying and mitigating third-party risk as well as manage solutions driven by data (data lakes and master data).  
+
+
+
+
 
 ::: concise 
 - Facilitated the conversations and coordinating the internal resources to support a $12B company standing up its data lake.  
@@ -297,23 +304,29 @@ Education {data-icon=graduation-cap data-concise=true}
 ### University of North Texas
 
 B.A.  English 
-  
+
 
 Selected Projects {data-icon=clipboard-list}
 --------------------------------------------------------------------------------
- N/A  
- N/A
-:::concise
-2020
+## ACFR Complexity Report in R
+
+                      Built an application in R to show how complex it would be
+                      for State or Local government to update their Annual
+                      Comprehensive Financial Report.
+                      
+##  Account info and Rentention Tool in Power BI
+                      Used Power BI to bring together 7 different data sources 
+                      to help the Sales team (selfishly me) and the Customer 
+                      Success team have one source of truth for customer activity.  
+                      This was used to create expansion sales as well as 
+                      prepare for renewals.
+
+##  Budget Transparency Tool in Power BI
+
+                      Built a prototype in Power BI that allowed a Local 
+                      government to build a dynamic representation of how the 
+                      tax payers' money is being spent to allow more 
+                      transparency and interactivity with the constituents.
 
 
-* Built an application in R to show how complex it would be for State or Local government to update their Annual Comprehensive Financial Report.
 
-2017
-
-* Used Power BI to bring together 7 different data sources to help the Sales team (selfishly me) and the Customer Success team have one source of truth for customer activity.  This was used to create expansion sales as well as prepare for renewals.
-
-2021
-* Built a tool in Power BI that allowed a Local government to build a dynamic representation of how the tax payers' money is being spent to allow more transparency and interactivity with the constituents.
-
-:::
